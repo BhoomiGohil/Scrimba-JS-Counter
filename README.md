@@ -1,8 +1,8 @@
-# Cookies
+# Counter
 
 ## Description
 
-The Cookies project is a simple web application that allows users to click on a heading to increment a cookie count displayed on the page. It's a fun and interactive way to demonstrate basic JavaScript functionality.
+The Counter project is a simple web application that allows users to click on a heading to increment a cookie count displayed on the page. It's a fun and interactive way to demonstrate basic JavaScript functionality.
 
 ## Features
 
@@ -54,9 +54,8 @@ Click on the "Go Live" option to run the project.
 
 ## Usage
 
-- Once the application is open, you will see the title "The Scrimba Times" and a list of news stories (if available).
-- The stories list will update automatically when new entries are added to the Firebase database.
-- Double-click on a story to remove it from the database and the displayed list.
+- Once the application is open, you will see the cookie count displayed with the heading "Cookies."
+- Click on the heading to increment the cookie count.
 
 ## Technologies Used
 
