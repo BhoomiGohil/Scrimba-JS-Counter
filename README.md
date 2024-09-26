@@ -27,14 +27,14 @@ Below is a visual representation of the website page:
 
 1. Clone this repository to your local machine using:
 
-   ```bash
-   git clone https://github.com/BhoomiGohil/javascript-scrimba-learn-javascript-build-a-mobile-counter.git
-   ```
+```bash
+git clone https://github.com/BhoomiGohil/Scrimba-JavaScriptCourseCookieCounter.git
+```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd javascript-scrimba-learn-javascript-build-a-mobile-counter
+cd Scrimba-JavaScriptCourseCookieCounter
 ```
 
 3. **Open the `index.html` file in your web browser.**
