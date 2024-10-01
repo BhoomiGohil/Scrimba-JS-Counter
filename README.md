@@ -28,13 +28,13 @@ Below is a visual representation of the website page:
 1. Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/BhoomiGohil/Scrimba-JavaScriptCourseCookieCounter.git
+git clone https://github.com/BhoomiGohil/Scrimba-JS-Counter.git
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd Scrimba-JavaScriptCourseCookieCounter
+cd Scrimba-JS-Counter
 ```
 
 3. **Open the `index.html` file in your web browser.**
